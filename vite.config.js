@@ -7,6 +7,6 @@ export default defineConfig({
   server:{
     host: '0.0.0.0',
     port: process.env.PORT || 5173,
-    allowedHosts: ['https://renderload.onrender.com']
+    allowedHosts: ['renderload.onrender.com']
   }
 })
