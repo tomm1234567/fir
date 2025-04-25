@@ -1,0 +1,60 @@
+.s1_i1{
+    width: 624px;
+    height: 289px;
+    background: url(./src/assets/Rectangle20.png);
+    background-size: 100% 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 50px;
+}
+.s1_i2{
+    width: 624px;
+    height: 289px;
+    background: url(./src/assets/Rectangle21.png);
+    background-size: 100% 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 50px;
+}
+.s1_i3{
+    width: 624px;
+    height: 289px;
+    background: url(./src/assets/Rectangle22.png);
+    background-size: 100% 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 50px;
+}
+.s1_i4{
+    width: 624px;
+    height: 289px;
+    background: url(./src/assets/Rectangle23.png);
+    background-size: 100% 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 50px;
+}
+.s1_num{
+    font-family: 'Unbounded';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 50px;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+}
+.s1_p{
+    width: 267px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    color: #E4E4E4;
+}

@@ -1,0 +1,48 @@
+.projects_item{
+    width: 625px;
+    height: 337px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-left: 100px;
+    line-height: 100%;
+
+}
+.projects_text1{
+    font-weight: 400;
+    font-size: 12px;
+  }
+  .projects_text2{
+    font-weight: 300;
+    font-size: 40px;
+  }
+  .projects_text3{
+    width: 431px;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 100%;
+  }
+#back1{
+    background: url("./assets/bg1.png");
+    background-size: 100% 100%;
+}
+#back2{
+    background: url("./assets/bg2.png");
+    background-size: 100% 100%;
+}
+#back3{
+    background: url("./assets/bg3.png");
+    background-size: 100% 100%;
+}
+#back4{
+    background: url("./assets/bg4.png");
+    background-size: 100% 100%;
+}
+#back5{
+    background: url("./assets/bg5.png");
+    background-size: 100% 100%;
+}
+#back6{
+    background: url("./assets/bg6.png");
+    background-size: 100% 100%;
+}
